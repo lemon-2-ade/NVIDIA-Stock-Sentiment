@@ -2,7 +2,7 @@
 
 This project performs sentiment analysis on news headlines about Nvidia using the VADER sentiment analyzer, and correlates the sentiment scores with Nvidia's historical stock prices. It provides a visual representation to explore the relationship between public sentiment and stock performance.
 
-### 🔍 Overview
+## 🔍 Overview
 
 The notebook:
 
